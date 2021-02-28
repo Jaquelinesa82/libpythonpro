@@ -6,6 +6,9 @@ Nesse curso é mostrado como contribuir com projetos de código aberto.
 
 Link do curso Python Pro https://www.python.pro.br/inscricao
 
+[![Updates](https://pyup.io/repos/github/Jaquelinesa82/libpythonpro/shield.svg)](https://pyup.io/repos/github/Jaquelinesa82/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/Jaquelinesa82/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Jaquelinesa82/libpythonpro/)
+
 Suportado versão 3 de Python
 
 Para instalar:
