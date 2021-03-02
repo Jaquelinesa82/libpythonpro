@@ -1,5 +1,5 @@
 # libpythonpro
-Módulo para exemplificar construção do projetos Python no curso PyTools
+Módulo para exemplificar construção do projetos Python 
 
 
 Nesse curso é mostrado como contribuir com projetos de código aberto.
